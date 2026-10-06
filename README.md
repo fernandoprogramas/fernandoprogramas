@@ -12,7 +12,7 @@
 
 ## 🧱 Sobre mim
 
-- 🔭 Atualmente trabalhando em **No Futuro**
+- 🔭 Atualmente trabalhando **No Futuro**
 - 🌱 Estudando **Java**
 - 💬 Pergunte-me sobre **Java**
 - 🕷️ Curiosidade: **Sou fã do Homem-Aranha**
