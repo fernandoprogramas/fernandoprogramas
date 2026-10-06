@@ -1,41 +1,42 @@
-<h1 align="center">Olá, eu sou [Fernando] 👋</h1>
+<h1 align="center">Olá, eu sou Fernando 👋</h1>
 
 <p align="center">
-  [Sua profissão ou foco, ex.: Desenvolvedor Full Stack] • [Cidade, Estado]
+  <img src="minecraft-java.svg" alt="Minerador extraindo código Java" width="480" />
+</p>
+
+<p align="center">
+  <i>Construindo código, bloco por bloco. ⛏️</i>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧱 Sobre mim
 
-- 🔭 Atualmente trabalhando em **[No Futuro]**
-- 🌱 Estudando **[Java]**
-- 💬 Pergunte-me sobre **[Java]**
-- ⚡ Curiosidade: **[Gosto do Homem Aranha]**
+- 🔭 Atualmente trabalhando em **No Futuro**
+- 🌱 Estudando **Java**
+- 💬 Pergunte-me sobre **Java**
+- 🕷️ Curiosidade: **Sou fã do Homem-Aranha**
 
-## 🛠️ Tecnologias
+## 🎒 Inventário
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Portugol](https://img.shields.io/badge/Portugol-4B8BBE?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+## 📊 Progresso no mundo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" alt="Estatísticas" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
-## 📌 Projetos em destaque
+## 🏗️ Construções em destaque
 
 - [**Nome do projeto**](link) - breve descrição do que ele faz
 - [**Outro projeto**](link) - breve descrição
 
-## 📫 Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+<p align="center">
+  <sub>⛏️ Mundo em construção... novos blocos a caminho</sub>
+</p>
